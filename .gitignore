@@ -1,0 +1,10 @@
+# Webstorm
+**/.idea/*
+**/*.iml
+**/*.swp
+.idea
+node_modules
+# Others
+*.lock
+*.DS_Store
+*.out
